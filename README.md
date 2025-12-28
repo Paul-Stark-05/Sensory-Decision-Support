@@ -11,6 +11,9 @@ Using the Wine Quality dataset as a proxy for sensory panel data, this R Shiny d
 * **Reduced Analysis Time:** Automates the visualization of large sensory datasets.
 * **Decision Support:** Provides instant "Go/No-Go" metrics for production batches based on sensory KPIs.
 * **Statistical Rigor:** Uses regression trends to identify which chemical drivers most influence consumer preference.
+<img width="1918" height="1076" alt="image" src="https://github.com/user-attachments/assets/daee549d-0a43-46f3-90ab-02759994e2db" />
+<img width="1919" height="1068" alt="image" src="https://github.com/user-attachments/assets/f0a722b2-e645-4d8a-837f-1d7e6cbb6dd5" />
+
 
 ## 🛠 Tech Stack
 * **Language:** R
